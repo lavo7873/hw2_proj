@@ -1,4 +1,4 @@
-package com.divideandconquer;
+package divideandconquer;
 
 import static org.junit.Assert.*;
 

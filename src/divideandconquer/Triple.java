@@ -1,4 +1,4 @@
-package com.divideandconquer;
+package divideandconquer;
 
 public class Triple<First,Middle,Last> {
 	

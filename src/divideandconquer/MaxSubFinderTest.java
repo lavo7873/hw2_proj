@@ -1,4 +1,4 @@
-package com.divideandconquer;
+package divideandconquer;
 import divideandconquer.LinkedList.Node;
 
 import static org.junit.Assert.*;
